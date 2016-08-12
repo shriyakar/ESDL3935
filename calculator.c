@@ -5,3 +5,8 @@
   int a,b,c;
   // add calculator function here
 }
+
+int add(int a,int b)
+{
+  return a+b;
+}
